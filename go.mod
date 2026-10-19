@@ -1,8 +1,6 @@
 module github.com/abenz1267/walker
 
-go 1.22.0
-
-toolchain go1.23.2
+go 1.25.0
 
 require (
 	github.com/adrg/xdg v0.5.3
@@ -35,7 +33,7 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/yalue/native_endian v1.0.2 // indirect
 	golang.org/x/net v0.34.0 // indirect
-	golang.org/x/text v0.21.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
@@ -45,7 +43,7 @@ require (
 	github.com/knadh/koanf/providers/rawbytes v0.1.0
 	github.com/neurlang/wayland v0.2.1
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6 // indirect
-	golang.org/x/image v0.23.0 // indirect
-	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/image v0.41.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
 	golang.org/x/sys v0.29.0 // indirect
 )
